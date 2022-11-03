@@ -1,54 +1,76 @@
 Lasagne alla Bolognese
 
 fare lasagne alla bolognese
-SE hai gli ingredienti
+    
+    SE hai gli ingredienti
+        NO: fai la spesa
+        SI: inizia la ricetta
 
-NO
-fai la spesa
+    prendere pentola capiente
+    mettere sul fuoco a fiamma alta
+        
+    Prendere la carne
+        SE comprende salsiccia: aggiungere in pentola
+            NO: aggiungere del grasso (olio/burro) AND aggiungere la carne in pentola
 
-prendere pentola capiente
-mettere sul fuoco a fiamma alta
-SE c’è  la salsiccia dentro
 
-NO
-aggiungere del grasso (olio)
+    Far cuocere la carne
+        SE la carne è pronta
+            NO: aspetta 5minuti, girando lentamente
 
-aggiungere la carne in pentola
-SE la carne è pronta
+    Aggiungere gli odori
+        SE gli odori sono pronti
+            NO: aspetta tre minuti, girando lentamente
 
-NO
-aspetta 5m., gira la carne
-TORNA A “SE la carne è pronta”
+    Aggiungere la passata
+        SE la passata è pronta
+            NO: aspetta 30 minuti, girando lentamente
 
-aggiungere gli odori
-SE gli odori sono pronti
+    Mettere da parte il ragù
 
-NO
-aspetta 3m., gira gli odori
+    Prendere un pentolino per la besciamella
 
-mescola velocemente
-SE la besciamella è pronta
+    Mettere il pentolino su fiamma bassa
 
-NO
-mescola per 2m.
-TORNA A “SE la besciamella è pronta”
+    Aggiungere burro e farina in parti uguali QB
 
-metti da parte
-accendi forno (180°)
-prendere teglia
-assemblare lasagne
-stendere strato di besciamella
-SE è stato fatto 4 volte
+    Mescolare velocemente
+    Se il roux è pronto
+        NO: continua a mescolare per 2 minuti
+    
+    Aggiungere il latte
+    
+    Mescolare velocemente
 
-NO
-TORNA A “stendere strato di besciamella”
+    SE la besciamella è pronta
+        NO: mescola per 2 minuti
 
-aggiungere parmigiano
-SE basta
+    Lasciar riposare la besciamella
 
-NAAAH
-TORNA A “aggiungere parmigiano”
+    Prendere teglia da forno rettangolare
 
-infornare lasagna
-aspettare 40m.
-sfornare
+    Accendere il forno a 180° per farlo pre-riscaldare
+
+    Iniziare ad assemblare le lasagne   
+        Stendere uno strato di ragù
+        Stendere le sfoglie di pasta
+        Stendere la besciamella
+
+        SE è stato completato il 4° strato
+            NO: ripetere i processi di stesura
+
+        Aggiungere parmigiano
+
+    Infornare la lasagna
+
+    Attendere cottura per 40 minuti
+
+    Verificare lo stato di cottura
+        SE sono cotte: sfornare
+            NO: attendere altri 5 minuti
+
+    Lasciare raffreddare fino a tepore
+
+    Assaggiare
+        SE sono buone come quelle della nonna: ottimo!
+            NO: ripetere processo per 40 anni, 365 giorni all'anno OR aspettare che la nonna muoia per reclamarne il titolo di regina delle lasagne
