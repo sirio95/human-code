@@ -1,0 +1,54 @@
+Lasagne alla Bolognese
+
+fare lasagne alla bolognese
+SE hai gli ingredienti
+
+NO
+fai la spesa
+
+prendere pentola capiente
+mettere sul fuoco a fiamma alta
+SE c’è  la salsiccia dentro
+
+NO
+aggiungere del grasso (olio)
+
+aggiungere la carne in pentola
+SE la carne è pronta
+
+NO
+aspetta 5m., gira la carne
+TORNA A “SE la carne è pronta”
+
+aggiungere gli odori
+SE gli odori sono pronti
+
+NO
+aspetta 3m., gira gli odori
+
+mescola velocemente
+SE la besciamella è pronta
+
+NO
+mescola per 2m.
+TORNA A “SE la besciamella è pronta”
+
+metti da parte
+accendi forno (180°)
+prendere teglia
+assemblare lasagne
+stendere strato di besciamella
+SE è stato fatto 4 volte
+
+NO
+TORNA A “stendere strato di besciamella”
+
+aggiungere parmigiano
+SE basta
+
+NAAAH
+TORNA A “aggiungere parmigiano”
+
+infornare lasagna
+aspettare 40m.
+sfornare
